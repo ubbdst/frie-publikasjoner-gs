@@ -1,0 +1,20 @@
+10.1080/00918369.2016.1124688	958947	The Body as a Site of Gender-Related Distress: Ethical Considerations for Gender Variant Youth in Clinical Settings
+10.2298/JSC150119055B	1132527	A novel compound isolated from Sclerochloa dura has anti-inflammatory effects
+10.1016/j.cma.2016.10.040	1134703	Post-processing and visualization techniques for isogeometric analysis results
+10.1163/15685276-12341438	1149491	How talking about indigenous religion may change things: An example from Talamanca
+10.1093/cercor/bhu214	1151455	Organizing Principles of Human Cortical Development - Thickness and Area from 4 to 30 Years: Insights from Comparative Primate Neuroanatomy
+10.1353/lar.2016.0019	1153674	Deep Politics: Community Adaptations to Political Clientelism in 21st Century Mexico
+10.7763/IJIET.2016.V6.659	1162756	The Opportunity of Linked Data for the European Higher Education Area
+10.1093/logcom/exu040	1163040	Dynamic consequence for soft information
+10.1002/we.1819	1165543	Response analysis and comparison of a spar-type floating offshore wind turbine and an onshore wind turbine under blade pitch controller faults
+10.7577/sjvd.1848	1168672	En alternativ lÊringsarena .  Hva gj¯r sosiale entrepren¯rer som fremmer positiv arbeids- og lÊrelyst hos elevene, og hva kan yrkesfaglÊreren gj¯re for at hans elever kan utvikle seg pÂ en slik arena?
+10.1080/10498850.2015.1007542	1178015	Quality of Atlantic Cod Frozen in Cell Alive System, Air-Blast, and Cold Storage Freezers
+10.1017/mdh.2016.2	1183833	Re-Inventing Infectious Disease: Antibiotic Resistance and Drug Development at the Bayer Company 1945-80
+10.1080/17445302.2014.954303	1184268	Influence of sigma-phase precipitation on the impact behaviour of duplex stainless steel pipe fittings
+10.1108/JMP-04-2013-0117	1188401	Perceived investment in employee development and taking charge
+10.1504/IJIDS.2016.076514	1191125	Evaluation of risk levels in static mechanical equipment: A fuzzy expert system approach
+10.1108/JHOM-11-2013-0265	1192060	Contradicting logics in everyday practice: The complex dynamics of performance management and professionalism in Norwegian nursing homes
+10.1007/s11205-015-0868-y	1192854	Accumulation and persistence of welfare problems over time
+10.1007/s11655-014-1988-y	1195426	Acupuncture points used in the prophylaxis against recurrent uncomplicated cystitis, patterns identified and their possible relationship to physiological measurements
+10.1007/s11655-014-1833-3	1195830	Current research and future directions in pattern identification: Results of an international symposium
+10.1617/s11527-015-0530-9	1196054	Structural behaviour of layered beams with fibre-reinforced LWAC and normal density concrete
